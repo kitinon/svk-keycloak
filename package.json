@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git@github.com:kitinon/svk-keycloak.git"
   },
-  "keywords": [],
+  "keywords": ["SvelteKit", "Keycloak", "authentication", "authorization", "security", "middleware", "handle", "OIDC", "OAuth 2.0", "authentication code flow"],
   "author": "Kitinon W., Kridsanapong B.",
   "license": "ISC",
   "dependencies": {
