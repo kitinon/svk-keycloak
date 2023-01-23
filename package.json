@@ -1,6 +1,6 @@
 {
   "name": "svk-keycloak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sveltekit's middleware for authenticating with Keycloak using OIDC authorization code flow.",
   "type": "module",
   "main": "index.js",
